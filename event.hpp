@@ -31,7 +31,7 @@
 
 #include <memory>
 #include <vector>
-#include "delegate.hpp"
+#include "cpp-delegate/delegate.hpp"
 
 template <class... Args>
 class Event {

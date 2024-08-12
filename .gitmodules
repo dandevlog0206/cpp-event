@@ -1,0 +1,3 @@
+[submodule "cpp-delegate"]
+	path = cpp-delegate
+	url = https://github.com/dandevlog0206/cpp-delegate.git
